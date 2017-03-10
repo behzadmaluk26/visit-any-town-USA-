@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Tour Page</title>
+       
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"  rel="stylesheet"/>
+         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/is/bootstrap.min.is"  rel="text/javascript"/>
+       
+        <link href="app.css" rel="stylesheet"/>
+    </head>
+    <body>
+    
+<header class="container-fluid">
+    <h1>Visit Any Twon, USA !</h1>
+</header>
+
+    <nav class= "container-fluid">
+        <ul class="nav navber-inverse-nav">
+            <li class="active"><a href="#"> HOME</a></li>
+            <li><a href="http://www.bing.com/search?q=amazing%20places">AMAZING PLACES</a></li>
+            <li><a href="#contact">CONTACT</a></li>
+        </ul>
+    </nav>
+
+
+<div calass="container-fluid">
+    <aside>
+
+    <h2 class="title">Things to do</h2>
+        <ul>
+            <li><a href="http://www.bing.com/search?q=hiking">Hiking</a></li>
+            <li><a href="http://www.bing.com/search?q=biking">Biking</a></li>
+            <li><a href="http://www.bing.com/search?q=horseback">Horsback</a></li>
+            <li><a href="http://www.bing.com/search?q=backpaking">Backpaking</a></li>
+        </ul>
+    </aside>
+    <section>
+        <article>
+            <h2>Amazing Museums</h2>
+            <img src="http://lorempixel.com/200/100/city/1"/>
+            <p>While most museums are a collection of old artifacts and stuff that no one is really interested in seeing, but these museums are the best.</p>
+            <p> You won't find anything like these anywehere elsein the world. the museums here rival that the closest compertitors including the museum of Bad Art, the paris  Sewers Musume and the Musumeof Broken Relationships.</p>
+            <p> Come check them out... fun is waiting for you.</p>
+        </article>
+
+        <article>
+            <h2>Splashanyone Waterpark,</h2>
+            <img src="http://lorempixel.com/200/100/city/2"/>
+            <p>The watherpark is the bigest and best in the Western World. just south of interest of 2017, you will find sweet mix of super slides and lazy rivers,</p>
+            <p> that wasn't enough!?  there more than 350 of the best food trucks serving everything fro fried gummy bears to lemonnde and pizza.
+            Don't forget if you buy the collectors edition souvenir water park keepsake,</p>
+            <p> And wouldn't be splash splashanyone without the rules about splashing.... there are no rules</p>
+        </article>
+
+        <article>
+            <h2> Best Zoo In Twon</h2>
+            <img src="http://lorempixel.com/200/100/city/3"/>
+            <p> you won't to miss out cuddly little zoo animals. Lions, tigers, bears and many other beutiful animals. they have the largest born in captivity of animal overthere!</p>
+        </article>
+    </section>
+    <aside>
+        <h2>How to get here?</h2>
+        <ol id="orderedlist">   
+            <li>by plane </li>
+            <li>by train </li>
+            <li>by automobile </li>
+            <li>by boat</li>
+        </ol>
+    </aside>
+ </div>
+
+ <footer>
+     Copyright 2017
+ </footer class="container-fluid>
+    </body>
+</html>
